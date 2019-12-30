@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/gardens"
+        android:title="GARDENS"
+        />
+
+    <item
+        android:id="@+id/museums"
+        android:title="MUSEUMS"/>
+
+    <item
+    android:id="@+id/histoplaces"
+    android:title="HISTORICAL PLACES"/>
+
+    <item
+        android:id="@+id/zoo"
+        android:title="ZOO"/>
+
+    <item
+        android:id="@+id/artgallery"
+        android:title="ART GALLERY"/>
+
+
+</menu>

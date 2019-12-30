@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/malls"
+        android:title="MALLS"/>
+
+    <item
+        android:id="@+id/theaters"
+        android:title="THEATERS"/>
+
+    <item
+        android:id="@+id/restaurants"
+        android:title="RESTAURANTS"/>
+
+    <item
+        android:id="@+id/amusements"
+        android:title="AMUSEMENT PARKS"/>
+
+    <item
+        android:id="@+id/cafes"
+        android:title="CAFES"/>
+</menu>

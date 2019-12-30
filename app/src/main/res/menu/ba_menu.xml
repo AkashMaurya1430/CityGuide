@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/petrol_pump"
+        android:title="PETROL PUMP"/>
+
+    <item
+        android:id="@+id/schools"
+        android:title="SCHOOLS"/>
+
+    <item
+        android:id="@+id/colleges"
+        android:title="COLLEGES"/>
+
+    <item
+        android:id="@+id/markets"
+        android:title="MARKETS"/>
+
+    <item
+    android:id="@+id/orphanage"
+    android:title="ORPHANAGE"/>
+
+    <item
+        android:id="@+id/old_age"
+        android:title="OLD AGE HOMES"/>
+
+    <item
+        android:id="@+id/accomadation"
+        android:title="ACCOMODATION"/>
+
+
+</menu>

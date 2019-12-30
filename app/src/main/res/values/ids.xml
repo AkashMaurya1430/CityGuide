@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="LoginPass" type="id"></item>
+    <item name="ButtonLogin" type="id" />
+    <item name="LoginEmail" type="id"></item>
+    <item name="drawer" type="id" />
+    <item name="navigationView" type="id" />
+</resources>

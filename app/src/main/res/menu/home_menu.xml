@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/religious_places"
+        android:title="RELIGIOUS PLACES"/>
+    <item
+        android:id="@+id/entertainment"
+        android:title="ENTERTAINMENT"/>
+    <item
+    android:id="@+id/basic_amenities"
+    android:title="BASIC AMENITIES"/>
+    <item
+        android:id="@+id/attraction"
+        android:title="ATTRACTIONS"/>
+    <item
+        android:id="@+id/transport"
+        android:title="TRANSPORT"/>
+    <item
+        android:id="@+id/emergency"
+        android:title="EMERGENCY"/>
+
+
+</menu>

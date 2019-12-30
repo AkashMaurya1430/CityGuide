@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CITY GUIDE</string>
+    <string name="title_activity_home">HOME</string>
+    <string name="invalid_GAme" />
+    <string name="invalid_name">Please enter a valid name.</string>
+    <string name="invalid_number">Please enter a valid number.</string>
+    <string name="invalid_email">Please enter a valid email id.</string>
+    <string name="invalid_pass">Enter a valid password(Minimum 6 digits)</string>
+    <string name="YOUR_API_KEY">AIzaSyBYkzuYt4rQQi0OXi1EyPvxcUoErzGQr9U</string>
+    <string name="drawerOpen" />
+    <string name="drawerClose" />
+</resources>

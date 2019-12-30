@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/policestation"
+        android:title="POLICE STATIONS"/>
+
+    <item
+        android:id="@+id/fire"
+        android:title="FIRE BRIGADE"/>
+
+    <item
+        android:id="@+id/hospitals"
+        android:title="HOSPITALS"/>
+
+    <item
+    android:id="@+id/shelterhomes"
+    android:title="SHELTER HOMES"/>
+
+    <item
+        android:id="@+id/garage"
+        android:title="GARAGES"/>
+
+
+</menu>

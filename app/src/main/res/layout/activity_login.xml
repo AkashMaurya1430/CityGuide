@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cityguide"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/LoginEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:hint="Enter your EmailId"
+            android:padding="10dp"
+            android:background="@android:color/background_light"
+            android:inputType="textEmailAddress"></EditText>
+
+        <EditText
+            android:id="@+id/LoginPass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:hint="Enter your Password"
+            android:padding="10dp"
+            android:background="@android:color/background_light"
+            android:inputType="textPassword"></EditText>
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Show Password"
+            android:textColor="#FFFFFF"
+            android:layout_marginLeft="15dp"
+            android:id="@+id/checkbox"/>
+
+        <Button
+            android:id="@+id/ButtonLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:text="LOGIN"
+            android:padding="10dp"
+            android:background="@android:color/background_light">
+        </Button>
+
+        <TextView
+            android:id="@+id/password_reset"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Forgot Password?"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            />
+
+
+
+
+    </LinearLayout>
+</LinearLayout>

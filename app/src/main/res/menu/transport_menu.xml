@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bustops"
+        android:title="BUS STOPS"/>
+
+    <item
+        android:id="@+id/rail"
+        android:title="RAILWAY STATION"/>
+
+    <item
+        android:id="@+id/airport"
+        android:title="AIRPORTS"/>
+    <item
+        android:id="@+id/ports"
+        android:title="PORTS"/>
+
+</menu>
